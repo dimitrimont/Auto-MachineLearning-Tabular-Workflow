@@ -33,9 +33,7 @@ All steps are managed through a friendly Streamlit web app—no code required!
     ```
 
 3. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
     _Required libraries include: `streamlit`, `scikit-learn`, `xgboost`, `lightgbm`, `catboost`, `optuna`, `imbalanced-learn`, `seaborn`, etc._
 
 ---
